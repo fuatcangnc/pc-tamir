@@ -3,7 +3,7 @@
 	"sites": [
 		{
 			"key": "root",
-			"name": "Yeni Site",
+			"name": "pc tamir",
 			"media": "public",
 			"publishing": "review",
 			"collections": ["posts", "pages"]

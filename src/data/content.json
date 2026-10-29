@@ -1,51 +1,104 @@
 {
-  "industry": "mühendislik",
-  "automotive": true,
-  "heroEyebrow": "TSE 360 & TÜVTÜRK YETKİLİ ARAÇ PROJE OFİSİ",
-  "heroTitle": "Araç proje hizmetleri ve motosiklet çanta ruhsata işletme",
-  "heroDescription": "Yetkili makine mühendisliği kadromuzla araç projelerinizi ve motosiklet çanta tescillerinizi hızlı, eksiksiz ve mevzuata tam uyumlu biçimde yönetiyoruz.",
+  "industry": "bilgisayar tamiri",
+  "automotive": false,
+  "heroEyebrow": "AYNI GÜN YERİNDE BİLGİSAYAR SERVİSİ",
+  "heroTitle": "Hızlı ve Güvenilir PC Tamir Hizmeti",
+  "heroDescription": "Masaüstü ve dizüstü bilgisayarlarınız için yerinde arıza tespiti, termal bakım ve garantili parça değişimi. Kesintisiz performans için aynı gün adresinizdeyiz.",
   "highlights": [
-    "Araç Proje | TSE Onaylı",
-    "Motosiklet Çanta Ruhsata İşletme",
-    "TÜVTÜRK & Noter Tescil Desteği"
+    "Aynı Gün Müdahale",
+    "Yerinde Teknik Servis",
+    "Garantili Parça Değişimi",
+    "Şeffaf Fiyatlandırma"
   ],
   "metrics": [
     {
-      "value": "12+ Yıl",
-      "label": "Mühendislik Deneyimi"
-    },
-    {
-      "value": "1.000+",
-      "label": "Tescilli Proje"
+      "value": "Aynı Gün",
+      "label": "Yerinde Müdahale"
     },
     {
       "value": "%100",
-      "label": "Mevzuat Uyumu"
+      "label": "Parça Garantisi"
+    },
+    {
+      "value": "3000+",
+      "label": "Memnun Müşteri"
     }
   ],
-  "aboutTitle": "Araç projesi ve motosiklet çanta tescilinde iki ana uzmanlık",
-  "aboutText": "İhtiyacınız olan hizmet alanını seçin; mevzuata tam uygun teknik hesaplama, TSE 360 dijital dosya onayı ve noter tescil adımlarını sıfır hata güvencesiyle tamamlayalım.",
+  "aboutTitle": "Bilgisayarınız İçin Güvenilir ve Hızlı Çözümler",
+  "aboutText": "Yılların tecrübesiyle masaüstü ve dizüstü bilgisayarlarınızdaki tüm donanım ve yazılım sorunlarını adresinizde çözüyoruz. Cihazınızı taşımadan aynı gün yerinde servis desteği sunuyor, arızaları hızla gideriyoruz. Şeffaf süreç ve parça garantisiyle cihazınızı ilk günkü performansına kavuşturuyoruz.",
   "categories": [
-    "Araç Projeleri",
-    "Dönüşüm",
-    "Söküm",
-    "Motosiklet",
-    "Belgelendirme"
+    "Donanım Onarımı",
+    "Yazılım & Sistem",
+    "Periyodik Bakım"
   ],
-  "services": [],
+  "services": [
+    {
+      "title": "Laptop Tamiri",
+      "shortTitle": "Laptop Tamiri",
+      "slug": "laptop-tamiri",
+      "summary": "Açılmayan, yavaş çalışan veya arızalanan dizüstü bilgisayarınız aynı gün yerinde incelenir ve onarılır.",
+      "category": "Donanım Onarımı"
+    },
+    {
+      "title": "Kasa Onarımı",
+      "shortTitle": "Kasa Onarımı",
+      "slug": "masaustu-kasa-tamiri",
+      "summary": "Masaüstü bilgisayarlarınızdaki güç, anakart ve donanım arızaları profesyonel ekipmanlarla hızla çözülür.",
+      "category": "Donanım Onarımı"
+    },
+    {
+      "title": "Termal Bakım",
+      "shortTitle": "Termal Bakım",
+      "slug": "termal-macun-fan-bakimi",
+      "summary": "Aşırı ısınma ve donma sorunlarına karşı fan temizliği ve kaliteli termal macun değişimi yapılır.",
+      "category": "Periyodik Bakım"
+    },
+    {
+      "title": "Format ve Kurulum",
+      "shortTitle": "Format ve Kurulum",
+      "slug": "format-sistem-kurulumu",
+      "summary": "Verileriniz kaybolmadan işletim sistemi temiz kurulumu, sürücü güncellemeleri ve temel yazılımlar tamamlanır.",
+      "category": "Yazılım & Sistem"
+    },
+    {
+      "title": "Parça Değişimi",
+      "shortTitle": "Parça Değişimi",
+      "slug": "parca-degisimi-ve-yukseltme",
+      "summary": "Arızalı bileşenler garantili sıfır parçalarla değiştirilir; SSD ve RAM yükseltmesi yapılır.",
+      "category": "Donanım Onarımı"
+    },
+    {
+      "title": "Ekran Değişimi",
+      "shortTitle": "Ekran Değişimi",
+      "slug": "ekran-panel-degisimi",
+      "summary": "Kırık, çatlak veya kararan laptop ekranları orijinal panellerle yerinde veya atölyede yenilenir.",
+      "category": "Donanım Onarımı"
+    },
+    {
+      "title": "Veri Kurtarma",
+      "shortTitle": "Veri Kurtarma",
+      "slug": "veri-kurtarma-yedekleme",
+      "summary": "Bozuk veya çökmüş disklerdeki önemli belge ve arşivleriniz profesyonel yazılımlarla kurtarılır.",
+      "category": "Yazılım & Sistem"
+    }
+  ],
   "faq": [
     {
-      "question": "Motosiklet çanta ruhsata nasıl işletilir?",
-      "answer": "Motosiklete monte edilen arka çanta veya taşıma kutusu için yetkili makine mühendisimiz tarafından TSE onaylı tadilat projesi çizilir. Ardından TSE Araç Kontrol Merkezi incelemesi ve TÜVTÜRK tespit muayenesi yapılarak noterden yeni ruhsat teslim alınır."
+      "question": "Cihazımı servise getirmem gerekiyor mu?",
+      "answer": "Hayır. Talebiniz üzerine adresinize gelerek arıza tespitini ve onarımı doğrudan yerinde gerçekleştiriyoruz. Atölye gerektiren ağır arızalarda cihazı makbuz karşılığı teslim alıp en kısa sürede teslim ediyoruz."
     },
     {
-      "question": "Araç projesi hangi durumlarda zorunludur?",
-      "answer": "Karavan dönüşümü, motor değişimi, çeki demiri montajı, koltuk sökümü veya ilavesi, LPG sökümü ve engelli aparatı gibi aracın fabrika çıkış özelliklerini değiştiren tüm işlemlerde yasal olarak araç projesi zorunludur."
+      "question": "Format atılırken kişisel verilerim silinir mi?",
+      "answer": "İşlem öncesinde verileriniz eksiksiz yedeklenir. Format ve temiz kurulum sonrasında belgeleriniz, fotoğraflarınız ve kişisel dosyalarınız kayıpsız şekilde cihazınıza geri yüklenir."
     },
     {
-      "question": "TSE onay ve ruhsat süreci ne kadar sürer?",
-      "answer": "Teknik evraklarınız ve montaj faturanız hazır olduğunda proje çizimi ve TSE 360 sistemine dosya yükleme işlemi aynı gün içinde tamamlanır. Randevu sonrasında muayene ve noter tesciliyle süreç hızla sonuçlandırılır."
+      "question": "Termal bakım ne sıklıkla yapılmalıdır?",
+      "answer": "Yüksek ısı, donma ve performans düşüşlerini engellemek için yılda en az bir kez termal macun yenilemesi ve fan temizliği öneriyoruz. Düzenli bakım donanım ömrünü ciddi oranda uzatır."
+    },
+    {
+      "question": "Değiştirilen parçaların garantisi var mı?",
+      "answer": "Onarım ve yükseltme işlemlerinde kullanılan tüm yedek parçalar garantilidir. İşlem sonrasında test raporu ve garanti belgesi tarafınıza iletilir."
     }
   ],
-  "ctaLabel": "Teklif Al"
+  "ctaLabel": "Arıza Kaydı Oluştur"
 }
